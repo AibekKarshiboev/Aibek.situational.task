@@ -1,6 +1,14 @@
 # Aibek.situational.task
+It is the presentation of programming language python. By using this presentation everyone can began to learn of beginning of programming language
+
+
+
+
 
 https://www.canva.com/design/DAGCdwzRUps/swT7Lu2_omgFL2Z4MsYqNA/edit?utm_content=DAGCdwzRUps&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
+
 
 ![Снимок экрана (1)](https://github.com/AibekKarshiboev/Aibek.situational.task/assets/81102375/aec6ad64-ee39-4414-b5d6-9b4f13b60227)
 
