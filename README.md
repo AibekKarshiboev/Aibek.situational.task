@@ -1,5 +1,5 @@
 # Aibek.situational.task
-It is the presentation of programming language python. By using this presentation everyone can began to learn of beginning of programming language
+It is the presentation of programming language python. By using this presentation everyone can began to learn of beginning of programming language.
 
 
 
