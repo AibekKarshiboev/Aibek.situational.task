@@ -28,6 +28,7 @@ https://www.canva.com/design/DAGCdwzRUps/swT7Lu2_omgFL2Z4MsYqNA/edit?utm_content
 
 ![Снимок экрана (20)](https://github.com/AibekKarshiboev/Aibek.situational.task/assets/81102375/7b5cd013-2e48-4add-b114-193dc31db11d)
 
+![Снимок экрана (13)](https://github.com/AibekKarshiboev/Aibek.situational.task/assets/81102375/8bd44524-adb5-4d07-924e-d9d3cc2d9af8)
 
 
 
